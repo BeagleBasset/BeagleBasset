@@ -2,7 +2,11 @@
 
 I am a Mechatronics Engineer Msc. This is my personal github profile for my hobby and learning projects.
 
-![Codewars](https://github.r2v.ch/codewars?user=BeagleBasset&name=true&top_languages=true&stroke=rgb(255,255,255)theme=dark)
+Also contributing via work account : [@DLKMacDermid](https://github.com/DLKMacDermid)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeagleBasset&layout=donut-vertical&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
